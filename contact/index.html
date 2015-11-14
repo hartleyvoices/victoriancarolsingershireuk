@@ -12,7 +12,7 @@ Please complete the form below. Alternatively, you can email
 <input type='hidden' name='_sendto' value="{{ site.owner.email }}">
 <input type='hidden' name='_key' value="{{ site.owner.key }}">
 -->
-<form action="//formspree.io/{{ site.url }}" method="POST">
+<form action="//formspree.io/{{ site.owner.email }}" method="POST">
 <input type="hidden" name="_next" value="{{ site.url }}/thankyou/" />
 <input type="hidden" name="_subject" value="{{ site.owner.subject}}" />
 <fieldset>
