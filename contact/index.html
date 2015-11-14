@@ -1,0 +1,45 @@
+---
+layout: page
+title: Contact us with your Enquiry
+excerpt: "Contact us to enquire about our victorian carol singers for hire."
+---
+
+<!--form action="//formspree.io/hywel.llewellyn@gmail.com" method="POST">
+ <input type="hidden" name="_next" value="{{ site.url }}/thankyou/index.md"/-->
+
+
+
+ <!--victoriancarolsingershire form action="https://getsimpleform.com/messages?form_api_token=8119ca59789662512504ab3bdffb630b" method="post"-->
+<!--contact@hartleyvoices.com><form action="https://getsimpleform.com/messages?form_api_token=4e5731fdbfb284935798479a2c00abd5" method="post"-->
+ <form action="https://hartleyvoices.com/contactForm.php" method="post">
+ <input type='hidden' name='redirect_to' value="{{ site.url }}/thankyou/" />
+ <input type='hidden' name='referrer' value="{{ site.url }}">
+ <input type='hidden' name='_sendto' value="{{ site.owner.email }}">
+ <input type='hidden' name='_key' value="{{ site.owner.key }}">
+ <fieldset>
+ <label for="name">Name:</label>
+  <input type='text' name='name' placeholder = "Your Name" required/>
+
+  <label for="email">Email:</label>
+  <input type='email' name='_replyto' placeholder = "Your Email Address" required/>
+
+  <label for="conactmethod">How would you like to be contacted?</label>
+  <select name="conactmethod">
+  <option value="email" >by email</option>
+  <option value="phone" >by phone</option>
+  </select>
+
+  <label for="mobile">Mobile Phone:</label>
+  <input type='tel' name='mobile' placeholder = "Your Mobile Phone" pattern = '^\s*\(?(020[7,8]{1}\)?[ ]?[1-9]{1}[0-9{2}[ ]?[0-9]{4})|(0[1-8]{1}[0-9]{3}\)?[ ]?[1-9]{1}[0-9]{2}[ ]?[0-9]{3})\s*$' />
+
+  <label for="landline">Landline Phone:</label>
+  <input type='tel' name='landline' placeholder = "Your Landline Phone" pattern = '^\s*\(?(020[7,8]{1}\)?[ ]?[1-9]{1}[0-9{2}[ ]?[0-9]{4})|(0[1-8]{1}[0-9]{3}\)?[ ]?[1-9]{1}[0-9]{2}[ ]?[0-9]{3})\s*$'/>
+
+  <label for="eventtype">Event type:</label>
+  <input type='text' name='eventtype' placeholder = "What is your event?"/>
+  </fieldset>
+ <input type="submit" value="Send">
+</form>
+
+<BR>
+Alternatively, please email {{ site.owner.email }} 
