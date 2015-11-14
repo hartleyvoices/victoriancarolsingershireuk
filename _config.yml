@@ -7,8 +7,9 @@ tags: Victorian, Carol, Singers, Christmas, Festive, Party, Event, Carollers, Lo
 logo: #site-logo.png
 search: true
 url: http://victoriancarolsingershire.uk
- #url: https://hartleyvoices.github.io/victoriancarolsingershireuk
+#url: https://hartleyvoices.github.io/victoriancarolsingershireuk
 #url: http://127.0.0.1:4000
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
