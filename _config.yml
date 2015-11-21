@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Hartley Voices Limited
+  name: Victorian Carollers
   avatar: bio-photo.jpg
   email: info@victoriancarolsingershire.uk
   key: 4e5731fdbfb284935798479a2c00abd5
