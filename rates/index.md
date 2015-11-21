@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "Rates"
-excerpt: "There is no rival to the sound and look that our Victorian carol singers will provide for you. "
+description: "There is no rival to the sound and look that our Victorian carol singers will provide for you. Our rates for a quartet of our Victorian Carol Singers start at £590."
+excerpt: "Our rates for a quartet of our Victorian Carol Singers start at £590."
+tags: "Victorian, Carol, Singers, Christmas, Festive, Party, Event, Carollers, London, Hire, Top Hats, Dresses"
 ---
 There is no rival to the sound and look that our Victorian carol singers will provide for you.  
 
