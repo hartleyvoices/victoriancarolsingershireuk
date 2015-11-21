@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Victorian Carol Singers Hire</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://127.0.0.1:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://127.0.0.1:4000" />
-<updated>2015-11-17T20:00:22+00:00</updated>
-<id>http://127.0.0.1:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://victoriancarolsingershire.uk/feed.xml" />
+<link rel="alternate" type="text/html" href="http://victoriancarolsingershire.uk" />
+<updated>2015-11-21T20:23:40+00:00</updated>
+<id>http://victoriancarolsingershire.uk/</id>
 <author>
   <name>Hartley Voices Limited</name>
-  <uri>http://127.0.0.1:4000/</uri>
+  <uri>http://victoriancarolsingershire.uk/</uri>
   <email>info@victoriancarolsingershire.uk</email>
 </author>
 
@@ -17,19 +17,19 @@
 
 <entry>
   <title type="html"><![CDATA[Hello World]]></title>
-  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000/review/hello-world/" />
-  <id>http://127.0.0.1:4000/review/hello-world</id>
+  <link rel="alternate" type="text/html" href="http://victoriancarolsingershire.uk/review/hello-world/" />
+  <id>http://victoriancarolsingershire.uk/review/hello-world</id>
   <published>2015-09-05T21:46:46+01:00</published>
   <updated>2015-09-05T21:46:46+01:00</updated>
   <author>
     <name>Hartley Voices Limited</name>
-    <uri>http://127.0.0.1:4000</uri>
+    <uri>http://victoriancarolsingershire.uk</uri>
     <email>info@victoriancarolsingershire.uk</email>
   </author>
   <content type="html">
     &lt;h2 id=&quot;welcome-to-a-new-website-brought-to-you-by-hartley-voices&quot;&gt;Welcome to a new Website brought to you by Hartley Voices.&lt;/h2&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000/review/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Hartley Voices Limited at &lt;a href=&quot;http://127.0.0.1:4000&quot;&gt;Victorian Carol Singers Hire&lt;/a&gt; on September 05, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://victoriancarolsingershire.uk/review/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Hartley Voices Limited at &lt;a href=&quot;http://victoriancarolsingershire.uk&quot;&gt;Victorian Carol Singers Hire&lt;/a&gt; on September 05, 2015.&lt;/p&gt;
   </content>
 </entry>
 

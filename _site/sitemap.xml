@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://127.0.0.1:4000/review/hello-world/</loc>
+    <loc>http://victoriancarolsingershire.uk/review/hello-world/</loc>
     <lastmod>2015-09-05T21:46:46+01:00</lastmod>
   </url>
   <url>
-    <loc>http://127.0.0.1:4000/contact/</loc>
-    <lastmod>2015-11-17T20:00:22+00:00</lastmod>
+    <loc>http://victoriancarolsingershire.uk/contact/</loc>
+    <lastmod>2015-11-21T20:23:40+00:00</lastmod>
   </url>
   <url>
-    <loc>http://127.0.0.1:4000/</loc>
-    <lastmod>2015-11-17T20:00:22+00:00</lastmod>
+    <loc>http://victoriancarolsingershire.uk/</loc>
+    <lastmod>2015-11-21T20:23:40+00:00</lastmod>
   </url>
   <url>
-    <loc>http://127.0.0.1:4000/reviews/</loc>
-    <lastmod>2015-11-17T20:00:22+00:00</lastmod>
+    <loc>http://victoriancarolsingershire.uk/thankyou/</loc>
+    <lastmod>2015-11-21T20:23:40+00:00</lastmod>
   </url>
   <url>
-    <loc>http://127.0.0.1:4000/tags/</loc>
-    <lastmod>2015-11-17T20:00:22+00:00</lastmod>
+    <loc>http://victoriancarolsingershire.uk/reviews/</loc>
+    <lastmod>2015-11-21T20:23:40+00:00</lastmod>
   </url>
   <url>
-    <loc>http://127.0.0.1:4000/thankyou/rates/</loc>
-    <lastmod>2015-11-17T20:00:22+00:00</lastmod>
+    <loc>http://victoriancarolsingershire.uk/tags/</loc>
+    <lastmod>2015-11-21T20:23:40+00:00</lastmod>
   </url>
   <url>
-    <loc>http://127.0.0.1:4000/thankyou/</loc>
-    <lastmod>2015-11-17T20:00:22+00:00</lastmod>
+    <loc>http://victoriancarolsingershire.uk/rates/</loc>
+    <lastmod>2015-11-21T20:23:40+00:00</lastmod>
   </url>
 </urlset>
